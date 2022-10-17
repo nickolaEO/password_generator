@@ -22,7 +22,7 @@ python main.py
 
 Clone the repository and go to the project folder:
 ```sh
-git clone https://github.com/nickolaEO/foodgram-project-react.git && cd password_generator
+git clone https://github.com/nickolaEO/password_generator.git && cd password_generator
 ```
 Use this command and follow the instruction:
 ```sh
