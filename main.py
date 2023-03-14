@@ -24,7 +24,6 @@ def main(mode):
     upper = string.ascii_uppercase
     numbers = string.digits
     symbols = string.punctuation
-
     summary = lower + upper + numbers + symbols
 
     print('\nTake your passwords: ')
